@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @urbanjuras
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Vue3 JS, Java EE
+- 👀 I’m interested in web development also working with server configuration
+- 🌱 I’m currently learning Vue3 JS, React JS, Node and Express JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me urbanjuras9@gmail.com
 
